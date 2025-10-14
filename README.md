@@ -2,7 +2,7 @@
 <h3 align="center"> Javascript Web Dev </h3>
 
    ``` 
-    I'm a computer system engineer, web developer oriented. Currently working as backend dev..
+    I'm a computer system engineer, web developer oriented. I'am a Fullstack developer, currently working as backend dev..
     Here you'll find some activities I've done, if it can help you please go ahead :)
 
    ```
